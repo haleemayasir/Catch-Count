@@ -18,3 +18,7 @@ An interactive **C++ console game** where you move a **basket** to catch falling
 - Difficulty selection (Easy, Medium, Hard)
 - Pause feature with 'P' key
 - Double buffering for smooth visuals
+
+## Screenshot
+
+![Gameplay Screenshot](screenshot.png)
