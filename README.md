@@ -21,4 +21,4 @@ An interactive **C++ console game** where you move a **basket** to catch falling
 
 ## Screenshot
 
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](Screenshot.png)
